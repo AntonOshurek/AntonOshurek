@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Anton and i'm a Front-End and LotusScript (HCL Notes) developer )
 
 - 🔭 I’m currently working in Unicorn Poznań
 - 🌱 I’m currently learning TypeScript
