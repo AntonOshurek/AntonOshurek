@@ -12,3 +12,4 @@ my name is Anton and i'm a Front-End and LotusScript (HCL Notes) developer )
 ```NPM, GIT, Gulp, Webpack```
 
 - ⚡ Fun fact: ride BMX :)
+- https://www.instagram.com/ooshurek/
