@@ -3,7 +3,7 @@
 my name is Anton and i'm a Front-End and LotusScript (HCL Notes) developer )
 
 - 🔭 Currently working in Unicorn Poznań
-- 🌱 Currently learning NExt.js Vue.js
+- 🌱 Currently learning Next.js Vue.js
 
 - **technologies stack that I use every day**
 
