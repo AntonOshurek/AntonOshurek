@@ -10,6 +10,3 @@ my name is Anton and i'm a Front-End and LotusScript (HCL Notes) developer )
 ```JavaScript HTML5 CSS3 LESS SASS React Vue TypeScript Node.JS LotusScript HCL Notes```
 
 ```NPM, GIT, Gulp, Webpack```
-
-- ⚡ Fun fact: ride BMX :)
-- https://www.instagram.com/ooshurek/
