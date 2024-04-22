@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-my name is Anton and i'm a Front-End and LotusScript (HCL Notes) developer )
+my name is Anton and i'm a Front-End and LotusScript (HCL Notes) developer
 
 - 🔭 Currently working in Unicorn Poznań
 - 🌱 Currently learning Next.js
