@@ -1,12 +1,12 @@
 ### Hi there 👋 
 
-my name is Anton and i'm a Front-End and LotusScript (HCL Notes) developer
+my name is Anton and i'm Software Developer
 
 - 🔭 Currently working in Unicorn Poznań
-- 🌱 Currently learning Next.js
+- 🌱 Currently build movie app startapp
 
 - **technologies stack that I use every day**
 
-```JavaScript HTML5 CSS3 LESS SASS React Vue TypeScript Node.JS LotusScript HCL Notes```
+```JavaScript HTML5 CSS3 LESS SASS React Next.js Vue TypeScript Node.JS, Nest.js LotusScript HCL Notes```
 
 ```NPM, GIT, Gulp, Webpack```
