@@ -2,7 +2,7 @@
 
 my name is Anton and i'm Software Developer
 
-- 🔭 Currently working in Unicorn Poznań
+- 🔭 Currently working in citi
 - 🌱 Currently build movie app startapp
 
 - **technologies stack that I use every day**
