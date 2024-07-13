@@ -2,7 +2,7 @@
 
 my name is Anton and i'm Software Developer
  
-[personal blog about tech](https://oshurek.dev){:target="_blank"}
+[personal blog about tech](https://oshurek.dev){target="_blank"}
 
 - 🔭 Currently working in citi
 - 🌱 Currently build movie app startapp
