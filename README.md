@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
 my name is Anton and i'm Software Developer
-
-personal blog about tech oshurek.dev
+ 
+[personal blog about tech](https://oshurek.dev)
 
 - 🔭 Currently working in citi
 - 🌱 Currently build movie app startapp
