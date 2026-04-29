@@ -23,4 +23,4 @@ This GitHub account is now mainly used for:
 
 ### 🛠 Tech stack I use daily
 
-JavaScript · HTML5 · CSS3 · LESS · SASS · React · Next.js · TypeScript · Node.js · NestJS · LotusScript · HCL Notes · Java
+JavaScript · HTML5 · CSS3 · LESS · SASS · React · Angular.js· TypeScript · Node.js · NestJS · LotusScript · HCL Notes · Java
