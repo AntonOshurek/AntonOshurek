@@ -2,9 +2,8 @@
 
 My name is Anton and I'm a Software Developer.
 
-[Personal blog about tech](https://oshurek.dev)
-
-[GitLab profile](https://gitlab.com/AntonOshurek)
+🌐 [Blog](https://oshurek.dev)  
+🦊 [GitLab](https://gitlab.com/AntonOshurek)
 
 - 🔭 Currently working at Citi  
 - 🌱 Currently building a startup  
