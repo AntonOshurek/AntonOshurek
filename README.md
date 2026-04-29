@@ -1,12 +1,26 @@
-### Hi there 👋 
+### Hi there 👋
 
-my name is Anton and i'm Software Developer
- 
-[personal blog about tech](https://oshurek.dev)
+My name is Anton and I'm a Software Developer.
 
-- 🔭 Currently working in citi
-- 🌱 Currently build some startapp
+[Personal blog about tech](https://oshurek.dev)
+[GitLab profile](https://gitlab.com/AntonOshurek)
 
-- **technologies stack that I use every day**
+- 🔭 Currently working at Citi  
+- 🌱 Currently building a startup  
 
-```JavaScript HTML5 CSS3 LESS SASS React Next.js TypeScript Node.JS Nest.js LotusScript HCL Notes Java```
+---
+
+### ⚡ About my workflow
+
+I’ve moved most of my development (including commercial and personal projects) to GitLab.
+
+This GitHub account is now mainly used for:
+- open-source contributions  
+- my own libraries  
+- legacy (older) projects  
+
+---
+
+### 🛠 Tech stack I use daily
+
+JavaScript · HTML5 · CSS3 · LESS · SASS · React · Next.js · TypeScript · Node.js · NestJS · LotusScript · HCL Notes · Java
